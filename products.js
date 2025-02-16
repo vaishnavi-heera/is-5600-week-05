@@ -95,8 +95,4 @@ module.exports = {
   create,
   edit,
   destroy
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> b58cf0e9b07caaaf8bfcc439f55a44e1cf7ff6fc
